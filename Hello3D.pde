@@ -34,6 +34,8 @@ void draw() {
     point(x, y);
     ellipse(x*f, y*f, f, f);
   } // if
+  
+  makeText();
 } // func
 //
 //
